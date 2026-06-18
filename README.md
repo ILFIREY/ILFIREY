@@ -1,7 +1,7 @@
 $$ \color{#C30010} \text{* welcome} $$
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/30958f34-9585-419a-9f4e-b75ea6fbbfa0" width="450" alt="horrorsansgif-ezgif com-optimize" />
+  <img src="https://github.com/user-attachments/assets/30958f34-9585-419a-9f4e-b75ea6fbbfa0" width="600" alt="horrorsansgif-ezgif com-optimize" />
 </p>
 
 $$ \color{#C30010} \text{* 6teen ۶۟ৎ neurodivergent} $$
