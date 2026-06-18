@@ -1,7 +1,7 @@
 $$ \color{#C30010} \text{* welcome} $$
 
 <p align="center">
-  <img src="https://github.com" width="450" alt="horrorsansgif-ezgif com-optimize" />
+  <img src="https://github.com" width="450" alt=horrorsansgif-ezgif com-optimize />
 </p>
 
 
