@@ -1,8 +1,7 @@
 $$ \color{#C30010} \text{* welcome} $$
 
-<p align="center">
-  <img src="<img width="640" height="432" alt="horrorsansgif-ezgif com-optimize" src="https://github.com/user-attachments/assets/e205a992-e91a-4e1f-aec6-c21b9b008eb3" />" width="300" alt="My Profile GIF">
-</p>
+<img width="732" height="220" alt="image" src="https://github.com/user-attachments/assets/032dac08-831f-46ae-8986-2367cf4beb21" />
+
 
 $$ \color{#C30010} \text{* 6teen ۶۟ৎ neurodivergent} $$
 
