@@ -11,7 +11,7 @@ $$ \color{#C30010} \text{* 6teen ۶۟ৎ neurodivergent} $$
 <p align="center">
   <a href="https://ribbooty.straw.page/">straw</a> &bull; 
   <a href="https://ilfirey.atabook.org/">ata</a> &bull; 
-  <a href="https://pronouns.cc/@ILFIREY">prns</a>
+  <a href="https://en.pronouns.page/@ILFIREY">prns</a>
 </p>
 
 
